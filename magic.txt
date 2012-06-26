@@ -1,0 +1,11 @@
+Dateityp;Default Extension;Magic Number (hex-Digits);Programm
+Adobe PDF;pdf;0x255044462d;evince %1
+Postscript;ps;0x2521;evince %1
+jpg, jpeg;jpg;0xffd8ffe0;gimp %1
+tiff;tif;0x49492a00;gimp %1
+zip;zip;0x504b0304;file-roller %1
+gzip;gz;0x1f8b;file-roller %1
+Truetype font;ttf;0x0001000000;gnome-font-viewer %1
+bash;sh;0x2321202f62696e2f62617368;jedit %1
+
+
